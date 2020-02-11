@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0dfa7d95-7f36-42db-8698-b8572b64e2cf",
+            "Value": {
+                "id": "7394d431-b95e-4b72-b52e-f8897da95f29",
+                "resourcePath": "datafiles_yy\\GMLive\\gmlive-server.exe.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "10ab1e12-64a2-4023-9a5a-bd16ad90acd1",
             "Value": {
                 "id": "198f81aa-10ec-42ea-bc27-acc53964c1ae",
@@ -63,6 +71,22 @@
             }
         },
         {
+            "Key": "33634c94-b392-4387-9e8a-14a6330a1256",
+            "Value": {
+                "id": "6a50df6b-80fc-426e-9ad2-0d1be426dafc",
+                "resourcePath": "objects\\obj_gmlive\\obj_gmlive.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "34ebc914-3fea-42f7-a6b9-db18b75cd055",
+            "Value": {
+                "id": "4b3014b5-dc4b-4870-a725-41a84dba13bc",
+                "resourcePath": "extensions\\GMLive\\GMLive.yy",
+                "resourceType": "GMExtension"
+            }
+        },
+        {
             "Key": "3e77701c-de41-4270-974a-11966f068188",
             "Value": {
                 "id": "f534e203-67fd-4d0c-9eb9-fe8f3eae37f9",
@@ -84,6 +108,14 @@
                 "id": "1531af38-8d30-42a9-aaac-7a4b8cee2606",
                 "resourcePath": "objects\\plaque\\plaque.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4f6d5917-c57b-4fc7-9d9b-307d1389a24a",
+            "Value": {
+                "id": "daaa924d-bf34-440d-880c-e2c5798e22eb",
+                "resourcePath": "datafiles_yy\\GMLive\\gc.dll.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -116,6 +148,22 @@
                 "id": "5903f236-33fb-4695-8b38-249648f93a48",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "7a7572b5-c8a8-4c61-ad80-55f321fc42ca",
+            "Value": {
+                "id": "382d574b-31be-42c7-8e56-1d5d342b8f24",
+                "resourcePath": "views\\7a7572b5-c8a8-4c61-ad80-55f321fc42ca.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7f05d1e4-f830-491b-b3a7-32a39602dae5",
+            "Value": {
+                "id": "d583c492-7f1d-4ef5-b18c-60d9dbaf02dd",
+                "resourcePath": "datafiles_yy\\GMLive\\regexp.ndll.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -223,6 +271,22 @@
             }
         },
         {
+            "Key": "cf696f65-00d4-4de7-a13a-e4cdded15b8c",
+            "Value": {
+                "id": "673c5fa6-0b50-408c-94c8-26b8123df146",
+                "resourcePath": "fonts\\fnt_plaque_name\\fnt_plaque_name.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "d10b9ee3-1740-49a4-a91e-ae80ffd1a8ff",
+            "Value": {
+                "id": "a409b169-d87c-493a-aea4-8b487477a091",
+                "resourcePath": "datafiles_yy\\GMLive\\std.ndll.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "d157119d-d520-40da-955b-27e8f230818f",
             "Value": {
                 "id": "d33d6f22-5e1f-4639-9ed1-4db5a0fe3fcc",
@@ -236,6 +300,14 @@
                 "id": "fd2724b4-8c93-489b-a48f-a3c0fa2c3fa2",
                 "resourcePath": "views\\d45ef744-d9ef-4c65-abbc-5aa01399d8ff.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d872d1c0-25e7-43a6-9708-f40df3ac6260",
+            "Value": {
+                "id": "30d915f7-bc6f-4aa8-8ded-0f1d9b447e52",
+                "resourcePath": "datafiles_yy\\GMLive\\neko.dll.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -255,11 +327,27 @@
             }
         },
         {
+            "Key": "e6e36abc-c63b-4fce-9b3b-578c31dd330a",
+            "Value": {
+                "id": "430b885e-3286-4b94-92f0-64535c428d2a",
+                "resourcePath": "datafiles_yy\\GMLive\\gmlive-server.n.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "e733502d-e20b-4997-88dd-9532d2ab7121",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f57c8261-ce8b-4d81-a5f2-e422418a4a5e",
+            "Value": {
+                "id": "f1322f7c-2660-4f73-933e-81d1fe50d8c6",
+                "resourcePath": "datafiles_yy\\GMLive\\gmlive.html.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {

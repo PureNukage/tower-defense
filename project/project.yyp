@@ -95,22 +95,6 @@
             }
         },
         {
-            "Key": "48b5ce7c-9060-4e8b-b8ff-f1c8868a929a",
-            "Value": {
-                "id": "b9453595-d670-4c27-94ee-1b1325010b24",
-                "resourcePath": "objects\\demon\\demon.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "4f4afd86-e522-465b-b2a9-463b90358c88",
-            "Value": {
-                "id": "1531af38-8d30-42a9-aaac-7a4b8cee2606",
-                "resourcePath": "objects\\plaque\\plaque.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "4f6d5917-c57b-4fc7-9d9b-307d1389a24a",
             "Value": {
                 "id": "daaa924d-bf34-440d-880c-e2c5798e22eb",

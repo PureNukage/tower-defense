@@ -247,6 +247,22 @@
             }
         },
         {
+            "Key": "c0cd6462-e4d4-4db8-bac6-26dbf1a66cf6",
+            "Value": {
+                "id": "a4d999a7-8a78-4352-a59e-2bee6af09efe",
+                "resourcePath": "sprites\\s_box\\s_box.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cbb64eea-ad51-4d50-9ee1-883a3f1361e6",
+            "Value": {
+                "id": "a638bea0-3f44-4a68-b0b3-f08e9e4e9b6f",
+                "resourcePath": "objects\\controller\\controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "370ce8cd-8e78-453b-b030-0d517c3c930f",
@@ -284,6 +300,14 @@
                 "id": "fd2724b4-8c93-489b-a48f-a3c0fa2c3fa2",
                 "resourcePath": "views\\d45ef744-d9ef-4c65-abbc-5aa01399d8ff.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d81356af-7d49-498a-8573-9808817f168b",
+            "Value": {
+                "id": "98ec3634-531d-42c6-8569-8af55c72f0b4",
+                "resourcePath": "objects\\turret\\turret.yy",
+                "resourceType": "GMObject"
             }
         },
         {

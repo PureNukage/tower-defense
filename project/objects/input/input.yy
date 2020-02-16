@@ -1,18 +1,28 @@
 {
-    "id": "d81356af-7d49-498a-8573-9808817f168b",
+    "id": "92456b37-d5cc-48a3-9f21-584c45ca5479",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "turret",
+    "name": "input",
     "eventList": [
         {
-            "id": "9895e1e4-e11c-47d4-9d5f-58a05d357036",
+            "id": "9d1229f7-e16a-4655-afd0-603e52bd2c60",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "d81356af-7d49-498a-8573-9808817f168b"
+            "m_owner": "92456b37-d5cc-48a3-9f21-584c45ca5479"
+        },
+        {
+            "id": "eee36924-07a0-46ab-b0aa-e04ae13205a9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "92456b37-d5cc-48a3-9f21-584c45ca5479"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "caac867c-a078-4801-a32a-10111c2f7319",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

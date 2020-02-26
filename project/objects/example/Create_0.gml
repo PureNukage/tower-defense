@@ -1,3 +1,12 @@
+best_artists[0] = "Tyler the Creator"
+best_artists[1] = "Michael Jackson"
+best_artists[2] = "Iron Maiden"
+best_artists[3] = "Motorhead"
+best_artists[4] = "Frank Ocean"
+
+
+
+
 /*
 	Loop and draw the names of all the Smartcontract.com team members
 	

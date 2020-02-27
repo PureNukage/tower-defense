@@ -3,9 +3,17 @@ best_artists[1] = "Michael Jackson"
 best_artists[2] = "Iron Maiden"
 best_artists[3] = "Motorhead"
 best_artists[4] = "Frank Ocean"
+best_artists[5] = "Megadeath"
+best_artists[6] = "Opeth"
+best_artists[7] = "Doja kat"
 
-
-
+races[0] = "Space Marines"
+races[1] = "Ork"
+races[2] = "Eldar"
+races[3] = "Tyranid"
+races[4] = "Chaos Space Marines"
+races[5] = "Tau"
+races[6] = "Necrons"
 
 /*
 	Loop and draw the names of all the Smartcontract.com team members

@@ -1,4 +1,4 @@
-cell_width = 64
+`cell_width = 64
 cell_height = 64
 
 grid_width = room_width/cell_width

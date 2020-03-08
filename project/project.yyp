@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "a54f377d-9115-4e66-9e2b-6b608931e4af",
+            "Value": {
+                "id": "d90d344b-8c83-4d42-8552-03a77c5f7878",
+                "resourcePath": "sprites\\s_blob\\s_blob.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "eec28b54-090b-44a2-95d1-2d46938bfc14",

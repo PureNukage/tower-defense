@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "04ee952b-6a84-4e81-93c9-f8cf2d6269c4",
+            "Value": {
+                "id": "92a594fc-fa5d-4748-8ba4-91cc9eb7922b",
+                "resourcePath": "sprites\\s_arrow\\s_arrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0dfa7d95-7f36-42db-8698-b8572b64e2cf",
             "Value": {
                 "id": "7394d431-b95e-4b72-b52e-f8897da95f29",
@@ -63,10 +71,26 @@
             }
         },
         {
+            "Key": "2a390484-cdea-4db3-84a9-15d6377ee117",
+            "Value": {
+                "id": "9e31f215-a537-4134-bbe1-cf0d49edb155",
+                "resourcePath": "sprites\\s_bitcoin\\s_bitcoin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2d0c0acf-094f-45e9-b12d-6176bbf75bf9",
             "Value": {
                 "id": "f554b02d-193c-41cc-a935-207fe68d9a46",
                 "resourcePath": "views\\2d0c0acf-094f-45e9-b12d-6176bbf75bf9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "32c8a5f6-ffc1-4c2e-8f1a-5379c56475b6",
+            "Value": {
+                "id": "deddd2ab-58ae-4fa4-81b9-e479a7e79357",
+                "resourcePath": "views\\32c8a5f6-ffc1-4c2e-8f1a-5379c56475b6.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -127,6 +151,14 @@
             }
         },
         {
+            "Key": "6ff0cf0a-8292-4a7b-879e-b18d54b775bd",
+            "Value": {
+                "id": "af8bc79a-33a3-4f07-b111-0fad503b0813",
+                "resourcePath": "sprites\\s_chainlink\\s_chainlink.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "5903f236-33fb-4695-8b38-249648f93a48",
@@ -140,6 +172,14 @@
                 "id": "382d574b-31be-42c7-8e56-1d5d342b8f24",
                 "resourcePath": "views\\7a7572b5-c8a8-4c61-ad80-55f321fc42ca.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7d9ee552-e3d8-4b6f-825a-5f78c375a900",
+            "Value": {
+                "id": "0517d009-8359-4b27-a775-09489672613a",
+                "resourcePath": "sprites\\s_ethereum\\s_ethereum.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,6 +295,22 @@
             }
         },
         {
+            "Key": "bda3c032-4887-4451-a59e-8fcf7b981d2c",
+            "Value": {
+                "id": "a57f0a23-ff5b-464e-8ec2-3dee4a424e30",
+                "resourcePath": "objects\\example1_forloops\\example1_forloops.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c04b0770-1427-47c0-b3fd-e3ad91dddace",
+            "Value": {
+                "id": "1e45ad8e-75ea-48bc-a18c-ca47cf825c1c",
+                "resourcePath": "views\\c04b0770-1427-47c0-b3fd-e3ad91dddace.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c0cd6462-e4d4-4db8-bac6-26dbf1a66cf6",
             "Value": {
                 "id": "a4d999a7-8a78-4352-a59e-2bee6af09efe",
@@ -332,6 +388,14 @@
                 "id": "30d915f7-bc6f-4aa8-8ded-0f1d9b447e52",
                 "resourcePath": "datafiles_yy\\GMLive\\neko.dll.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "da98c390-ad8f-4fd1-b499-811e83396413",
+            "Value": {
+                "id": "85381e0a-7493-4a52-a169-8ad84e9753c3",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

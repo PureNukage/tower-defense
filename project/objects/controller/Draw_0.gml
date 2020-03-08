@@ -27,6 +27,12 @@ for(var w=0;w<grid_width;w++) {
 				Turret.cell_y = mouseY
 				grid[# mouseX, mouseY] = Turret
 			}
+			
+			if input.mouse_right_pressed {
+				var X = xx + cell_width/2
+				var Y = yy + cell_height/2	
+				var Enemy = instance_create_layer(X,Y,"Instances",enemy)
+			}
 		}
 	}
 }

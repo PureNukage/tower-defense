@@ -3,5 +3,8 @@
 
 enum states {
 	placement,
-	placed
+	placed,
+	
+	alive,
+	dead,
 }

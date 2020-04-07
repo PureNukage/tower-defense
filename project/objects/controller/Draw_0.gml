@@ -28,13 +28,8 @@ for(var w=0;w<grid_width;w++) {
 				grid[# mouseX, mouseY] = Turret
 			}
 			
-			if input.mouse_right_pressed and grid[# w, h] == -1 {
-				var X = xx + cell_width/2
-				var Y = yy + cell_height/2	
-				var Enemy = instance_create_layer(X,Y,"Instances",enemy)
-				Enemy.cell_x = mouseX
-				Enemy.cell_y = mouseY
-				grid[# mouseX, mouseY] = Enemy
+			if input.mouse_right_pressed {
+				create_enemy(mouse_x,mouse_y)
 			}
 		}
 	}

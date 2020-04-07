@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "3cdd8622-9d90-4a1f-aa71-28b86641e4c5",
+            "Value": {
+                "id": "a96b2a22-c631-443e-9260-50de5915ba97",
+                "resourcePath": "objects\\spawner\\spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3e77701c-de41-4270-974a-11966f068188",
             "Value": {
                 "id": "f534e203-67fd-4d0c-9eb9-fe8f3eae37f9",
@@ -148,6 +156,14 @@
                 "id": "08c73e87-caf4-4a6a-8484-201ec3f9290b",
                 "resourcePath": "views\\58a2b014-9e24-4ae8-9a84-b436ed6a4839.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "64b78276-5252-439f-9d7f-ce6a48611c4a",
+            "Value": {
+                "id": "854a65ef-f71d-4829-9757-d9b7a387c9fb",
+                "resourcePath": "scripts\\create_enemy\\create_enemy.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -497,7 +513,8 @@
     ],
     "script_order": [
         "d157119d-d520-40da-955b-27e8f230818f",
-        "217115b2-53fc-40e3-99b2-c9bf324b05f4"
+        "217115b2-53fc-40e3-99b2-c9bf324b05f4",
+        "64b78276-5252-439f-9d7f-ce6a48611c4a"
     ],
     "tutorial": ""
 }

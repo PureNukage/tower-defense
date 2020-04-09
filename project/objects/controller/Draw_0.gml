@@ -19,7 +19,7 @@ for(var w=0;w<grid_width;w++) {
 				draw_set_alpha(1)
 			}
 			
-			if input.mouse_left_pressed and grid[# w, h] == -1 { 
+			if input.mouse_left_pressed and grid[# w, h] == -1 and w >= 11 and instance_number(turret) < total_turrets { 
 				var X = xx + cell_width/2
 				var Y = yy + cell_height/2
 				var Turret = instance_create_layer(X,Y,"Instances",turret)

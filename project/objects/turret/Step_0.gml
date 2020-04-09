@@ -28,6 +28,11 @@ switch(states)
 			}
 		}
 		
+		if hp <= 0 {
+			instance_destroy()
+			controller.grid[# cell_x, cell_y] = -1
+		}
+		
 		
 	break
 	

@@ -6,12 +6,12 @@
 	
 	XX	enemy blob spawner
 	
-	**	blob moves and attacks stuff 
+	XX	blob moves and attacks stuff 
 	
-	**	the players Ancient they defend
+	XX	the players Ancient they defend
 	
-	**	allow player to only place turrets in certain cells; enemies come from opposite of level
+	XX	allow player to only place turrets in certain cells; enemies come from opposite of level
 
-	**	the player can only place x amount of turrets
+	XX	the player can only place x amount of turrets
 
 */

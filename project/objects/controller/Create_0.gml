@@ -24,3 +24,5 @@ for(var w=0;w<grid_width;w++) {
 
 mouseX = -1
 mouseY = -1
+
+total_turrets = 5

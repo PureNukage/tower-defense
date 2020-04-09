@@ -5,3 +5,4 @@ canShoot = true
 target = -1
 cooldown_max = 60
 cooldown = cooldown_max
+hp = 15

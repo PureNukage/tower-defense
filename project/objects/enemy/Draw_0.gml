@@ -1,2 +1,7 @@
-if damaged var color = c_red else var color = c_white
-draw_sprite_ext(sprite_index,0,x,y,1,1,0,color,image_alpha)
+if damaged {
+	shader_set(sdr_flash)
+	draw_sprite_ext(sprite_index,0,x,y,1,1,0,c_white,image_alpha)
+	shader_reset()
+} else {
+	draw_sprite_ext(sprite_index,0,x,y,1,1,0,c_white,image_alpha)
+}
